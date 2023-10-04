@@ -1,6 +1,6 @@
-# html-portfolio-project-2
-This project is base on HTML & use Some CSS too.
-1.Demo page
-2.time table
-3.travel resevation form
+# html-portfolio-project-2<br>
+This project is base on HTML & use Some CSS too.<br>
+1.Demo page<br>
+2.time table<br>
+3.travel resevation form<br>
 4.Common use in website
